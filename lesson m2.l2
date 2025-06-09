@@ -1,0 +1,4 @@
+s = "123459876"
+result = set(s)
+print(result)
+result.add(8)
